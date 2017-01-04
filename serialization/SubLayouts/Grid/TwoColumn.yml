@@ -1,0 +1,18 @@
+﻿---
+ID: "7c043c15-a809-4ee8-a750-1ffa917c2c22"
+Parent: "e58ff284-699d-402e-baab-3d534e852ce1"
+Template: "0a98e368-cdb9-4e1e-927c-8e0c24a003fb"
+Path: /sitecore/layout/Sublayouts/Grid/TwoColumn
+DB: master
+SharedFields:
+- ID: "e42081b6-8a95-4a11-89ce-df70ed502f57"
+  Hint: Path
+  Value: /Sublayouts/Grid/TwoColumn.ascx
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161225T013920Z
